@@ -1,0 +1,106 @@
+[
+  {
+    "id": "0",
+    "category": "Herramientas"
+  },
+  {
+    "id": "1",
+    "category": "Muebles"
+  },
+  {
+    "id": "2",
+    "category": "Hogar"
+  },
+  {
+    "id": "3",
+    "category": "Jardinería"
+  },
+  {
+    "id": "4",
+    "category": "Electrodomésticos"
+  },
+  {
+    "id": "5",
+    "category": "Videojuegos"
+  },
+  {
+    "id": "6",
+    "category": "Libros, películas y música"
+  },
+  {
+    "id": "7",
+    "category": "Bolsos y equipaje"
+  },
+  {
+    "id": "8",
+    "category": "Ropa y calzado de mujer"
+  },
+  {
+    "id": "9",
+    "category": "Ropa y calzado de hombre"
+  },
+  {
+    "id": "10",
+    "category": "Joyas y accesorios"
+  },
+  {
+    "id": "11",
+    "category": "Salud y belleza"
+  },
+  {
+    "id": "12",
+    "category": "Productos para mascotas"
+  },
+  {
+    "id": "13",
+    "category": "Bebés y niños"
+  },
+  {
+    "id": "14",
+    "category": "Juguetes y juegos"
+  },
+  {
+    "id": "15",
+    "category": "Electrónica e informática"
+  },
+  {
+    "id": "16",
+    "category": "Celulares"
+  },
+  {
+    "id": "17",
+    "category": "Bicicletas"
+  },
+  {
+    "id": "18",
+    "category": "Arte y manualidades"
+  },
+  {
+    "id": "19",
+    "category": "Deportes y actividades al aire libre"
+  },
+  {
+    "id": "20",
+    "category": "Autopartes"
+  },
+  {
+    "id": "21",
+    "category": "Instrumentos musicales"
+  },
+  {
+    "id": "22",
+    "category": "Antigüedades y artículos de colección"
+  },
+  {
+    "id": "23",
+    "category": "Venta de garaje"
+  },
+  {
+    "id": "24",
+    "category": "Varios"
+  },
+  {
+    "id": "25",
+    "category": "Vehículos"
+  }
+]
