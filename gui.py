@@ -18,6 +18,7 @@ class App(Tk):
         self.geometry("1000x650")
         self.configure(bg="#FFFFFF")
         self.title("Publicador Facebook Marketplace")
+        self.iconbitmap('./data/icon.ico')
 
         self.excel = None
         self.update_excel = None

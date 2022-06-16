@@ -3,7 +3,7 @@ from cx_Freeze import setup, Executable
 
 __version__ = "9.0.0"
 
-include_files = ['data']
+include_files = ['data', 'assets']
 packages = ["tkinter", "os", "openpyxl", "selenium"]
 # excludes = [""]
 
@@ -22,5 +22,5 @@ setup(
         # 'excludes': excludes,
         'include_msvcr': False,
     }},
-    executables=[Executable("main.py", base=base, icon="data/icon.ico")]
+    executables=[Executable("gui.py", base=base, icon="data/icon.ico")]
 )
