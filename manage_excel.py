@@ -53,8 +53,8 @@ def create_excel_format():
             'Imagen 4',
             'Imagen 5',
             'Imagen 6',
-            'Región (Id)',
-            'Comuna (Id)',
+            'Región',
+            'Comuna',
         )
     )
 
