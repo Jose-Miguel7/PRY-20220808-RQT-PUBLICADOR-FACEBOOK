@@ -138,7 +138,7 @@ class BotFacebookMarketplace:
         counter = 0
         success = 0
 
-        for rows in ws.iter_rows(min_row=1, min_col=2):
+        for rows in ws.iter_rows(min_row=2, min_col=1):
             counter += 1
 
             try:

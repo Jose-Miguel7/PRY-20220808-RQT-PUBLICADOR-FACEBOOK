@@ -32,7 +32,7 @@ def verification_excel_format():
             try:
                 comienzo = True
             except Exception as e:
-                print(e)
+                print(e, 'verification_excel_format')
                 comienzo = False
     return termino
 
@@ -113,7 +113,7 @@ def verification_excel_publish(name):
             try:
                 process = True
             except Exception as e:
-                print(e)
+                print(e, 'verification_excel_publish')
                 process = False
     return filename
 
